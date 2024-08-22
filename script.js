@@ -4,7 +4,7 @@ let products = [
     { id: 3, name: 'Coleção The Boys', price: 59.99, image: 'img/yt.the_boys.jpg' },
     { id: 4, name: 'Coleção Minecraft', price: 59.99, image: 'img/yt.minecraft.jpg' },
     { id: 5, name: 'Mega Pack Minecraft', price: 149.99, image: 'img/yt.mine_super-pack.webp' },
-    { id: 6, name: 'Pelucias Slime Rancher', price: 44.99, image: 'img/yt.slime.jpg' },
+    { id: 6, name: 'Pelúcias Slime Rancher', price: 44.99, image: 'img/yt.slime.jpg' },
     //add mais produtos 
 ];
 
