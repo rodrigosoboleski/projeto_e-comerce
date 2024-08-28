@@ -74,7 +74,6 @@ nav a{
     color: #666;
 }
 .product button{
-    background-color: white;
     border: 1px solid black;
     border-radius: 20px;
     width: 150px;
@@ -82,9 +81,10 @@ nav a{
     cursor: pointer;
 }
 .product button:hover{
-    background-color: #333;
+    background-color: rgb(83, 71, 255);
+    border: none;
     color: white;
-    box-shadow: 0 0 10px rgb(2, 2, 2);
+    box-shadow: 0 0 10px rgb(83, 71, 255);
 }
 
 .cart{
