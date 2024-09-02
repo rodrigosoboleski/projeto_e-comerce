@@ -6,7 +6,7 @@ body{
 
 header{
     background-color: #333;
-    color: white;
+    color: black;
     padding: 20px;
     text-align: center;
 }
@@ -17,10 +17,19 @@ nav ul{
     display: flex;
 }
 nav li{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
     margin-right: 20px;
 }
+nav li:hover{
+    background-color: rgb(159, 184, 255);
+    border: 2px solid white;
+    box-shadow: 0 0 5px white;
+}
 nav a{
-    color: white;
+    color: black;
     text-decoration: none;
 }
 .hero{
